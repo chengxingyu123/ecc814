@@ -1,6 +1,6 @@
  mysqlmonitor
 
- Timestamp is 5100af72 (Thu Jan 24 11:50:10 2013)
+ Timestamp is 5100df4a (Thu Jan 24 15:14:18 2013)
 
  Preferred load address is 10000000
 
@@ -11,8 +11,8 @@
  0001:00005ee0 00000060H .text$yd                CODE
  0002:00000000 000002c8H .idata$5                DATA
  0002:000002d0 000009a0H .rdata                  DATA
- 0002:00000c70 0000005eH .rdata$debug            DATA
- 0002:00000cd0 00000104H .rdata$r                DATA
+ 0002:00000c70 00000069H .rdata$debug            DATA
+ 0002:00000cdc 00000104H .rdata$r                DATA
  0002:00000de0 00000050H .rdata$sxdata           DATA
  0002:00000e30 00000004H .rtc$IAA                DATA
  0002:00000e34 00000004H .rtc$IZZ                DATA
@@ -548,20 +548,20 @@
  0002:00000c04       _GUID_ATLVer30             10007c04     atls:atlbase.obj
  0002:00000c14       _GUID_ATLVer70             10007c14     atls:atlbase.obj
  0002:00000c28       __load_config_used         10007c28     msvcrt:loadcfg.obj
- 0002:00000cd0       ??_R1A@?0A@A@CNoTrackObject@@8 10007cd0     mfcs71:dllmodul.obj
- 0002:00000ce8       ??_R1A@?0A@A@AFX_MODULE_STATE@@8 10007ce8     mfcs71:dllmodul.obj
- 0002:00000d00       ??_R1A@?0A@A@_AFX_DLL_MODULE_STATE@@8 10007d00     mfcs71:dllmodul.obj
- 0002:00000d18       ??_R2_AFX_DLL_MODULE_STATE@@8 10007d18     mfcs71:dllmodul.obj
- 0002:00000d28       ??_R3_AFX_DLL_MODULE_STATE@@8 10007d28     mfcs71:dllmodul.obj
- 0002:00000d38       ??_R4_AFX_DLL_MODULE_STATE@@6B@ 10007d38     mfcs71:dllmodul.obj
- 0002:00000d4c       ??_R1A@?0A@A@type_info@@8  10007d4c     msvcrt:ti_inst.obj
- 0002:00000d64       ??_R2type_info@@8          10007d64     msvcrt:ti_inst.obj
- 0002:00000d6c       ??_R3type_info@@8          10007d6c     msvcrt:ti_inst.obj
- 0002:00000d7c       ??_R4type_info@@6B@        10007d7c     msvcrt:ti_inst.obj
- 0002:00000d90       ??_R1A@?0A@A@_com_error@@8 10007d90     comsuppw:comraise.obj
- 0002:00000da8       ??_R2_com_error@@8         10007da8     comsuppw:comraise.obj
- 0002:00000db0       ??_R3_com_error@@8         10007db0     comsuppw:comraise.obj
- 0002:00000dc0       ??_R4_com_error@@6B@       10007dc0     comsuppw:comraise.obj
+ 0002:00000cdc       ??_R1A@?0A@A@CNoTrackObject@@8 10007cdc     mfcs71:dllmodul.obj
+ 0002:00000cf4       ??_R1A@?0A@A@AFX_MODULE_STATE@@8 10007cf4     mfcs71:dllmodul.obj
+ 0002:00000d0c       ??_R1A@?0A@A@_AFX_DLL_MODULE_STATE@@8 10007d0c     mfcs71:dllmodul.obj
+ 0002:00000d24       ??_R2_AFX_DLL_MODULE_STATE@@8 10007d24     mfcs71:dllmodul.obj
+ 0002:00000d34       ??_R3_AFX_DLL_MODULE_STATE@@8 10007d34     mfcs71:dllmodul.obj
+ 0002:00000d44       ??_R4_AFX_DLL_MODULE_STATE@@6B@ 10007d44     mfcs71:dllmodul.obj
+ 0002:00000d58       ??_R1A@?0A@A@type_info@@8  10007d58     msvcrt:ti_inst.obj
+ 0002:00000d70       ??_R2type_info@@8          10007d70     msvcrt:ti_inst.obj
+ 0002:00000d78       ??_R3type_info@@8          10007d78     msvcrt:ti_inst.obj
+ 0002:00000d88       ??_R4type_info@@6B@        10007d88     msvcrt:ti_inst.obj
+ 0002:00000d9c       ??_R1A@?0A@A@_com_error@@8 10007d9c     comsuppw:comraise.obj
+ 0002:00000db4       ??_R2_com_error@@8         10007db4     comsuppw:comraise.obj
+ 0002:00000dbc       ??_R3_com_error@@8         10007dbc     comsuppw:comraise.obj
+ 0002:00000dcc       ??_R4_com_error@@6B@       10007dcc     comsuppw:comraise.obj
  0002:00000de0       ___safe_se_handler_table   10007de0     <linker-defined>
  0002:00000e30       ___rtc_iaa                 10007e30     msvcrt:initsect.obj
  0002:00000e34       ___rtc_izz                 10007e34     msvcrt:initsect.obj

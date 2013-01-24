@@ -1,6 +1,6 @@
  aimparser
 
- Timestamp is 5100b00a (Thu Jan 24 11:52:42 2013)
+ Timestamp is 5100df5a (Thu Jan 24 15:14:34 2013)
 
  Preferred load address is 10000000
 
@@ -11,21 +11,21 @@
  0001:0000bc70 0000003fH .text$yd                CODE
  0002:00000000 00000290H .idata$5                DATA
  0002:00000290 00001380H .rdata                  DATA
- 0002:00001610 0000003bH .rdata$debug            DATA
- 0002:0000164c 000000c0H .rdata$r                DATA
- 0002:00001710 00000030H .rdata$sxdata           DATA
- 0002:00001740 00000004H .rtc$IAA                DATA
- 0002:00001744 00000004H .rtc$IZZ                DATA
- 0002:00001748 00000004H .rtc$TAA                DATA
- 0002:0000174c 00000004H .rtc$TZZ                DATA
- 0002:00001750 00000284H .xdata$x                DATA
- 0002:000019d4 00000000H ATL$__a                 DATA
- 0002:000019d4 00000000H ATL$__z                 DATA
- 0002:000019d4 00000064H .idata$2                DATA
- 0002:00001a38 00000014H .idata$3                DATA
- 0002:00001a4c 00000290H .idata$4                DATA
- 0002:00001cdc 000008eeH .idata$6                DATA
- 0002:000025d0 000001e2H .edata                  DATA
+ 0002:00001610 00000046H .rdata$debug            DATA
+ 0002:00001658 000000c0H .rdata$r                DATA
+ 0002:00001720 00000030H .rdata$sxdata           DATA
+ 0002:00001750 00000004H .rtc$IAA                DATA
+ 0002:00001754 00000004H .rtc$IZZ                DATA
+ 0002:00001758 00000004H .rtc$TAA                DATA
+ 0002:0000175c 00000004H .rtc$TZZ                DATA
+ 0002:00001760 00000284H .xdata$x                DATA
+ 0002:000019e4 00000000H ATL$__a                 DATA
+ 0002:000019e4 00000000H ATL$__z                 DATA
+ 0002:000019e4 00000064H .idata$2                DATA
+ 0002:00001a48 00000014H .idata$3                DATA
+ 0002:00001a5c 00000290H .idata$4                DATA
+ 0002:00001cec 000008eeH .idata$6                DATA
+ 0002:000025e0 000001e2H .edata                  DATA
  0003:00000000 00000004H .CRT$XCA                DATA
  0003:00000004 00000004H .CRT$XCAA               DATA
  0003:00000008 00000008H .CRT$XCL                DATA
@@ -660,27 +660,27 @@
  0002:000015a4       _GUID_ATLVer30             1000e5a4     atls:atlbase.obj
  0002:000015b4       _GUID_ATLVer70             1000e5b4     atls:atlbase.obj
  0002:000015c8       __load_config_used         1000e5c8     msvcrt:loadcfg.obj
- 0002:0000164c       ??_R1A@?0A@A@CNoTrackObject@@8 1000e64c     mfcs71:dllmodul.obj
- 0002:00001664       ??_R1A@?0A@A@AFX_MODULE_STATE@@8 1000e664     mfcs71:dllmodul.obj
- 0002:0000167c       ??_R1A@?0A@A@_AFX_DLL_MODULE_STATE@@8 1000e67c     mfcs71:dllmodul.obj
- 0002:00001694       ??_R2_AFX_DLL_MODULE_STATE@@8 1000e694     mfcs71:dllmodul.obj
- 0002:000016a4       ??_R3_AFX_DLL_MODULE_STATE@@8 1000e6a4     mfcs71:dllmodul.obj
- 0002:000016b4       ??_R4_AFX_DLL_MODULE_STATE@@6B@ 1000e6b4     mfcs71:dllmodul.obj
- 0002:000016c8       ??_R1A@?0A@A@type_info@@8  1000e6c8     msvcrt:ti_inst.obj
- 0002:000016e0       ??_R2type_info@@8          1000e6e0     msvcrt:ti_inst.obj
- 0002:000016e8       ??_R3type_info@@8          1000e6e8     msvcrt:ti_inst.obj
- 0002:000016f8       ??_R4type_info@@6B@        1000e6f8     msvcrt:ti_inst.obj
- 0002:00001710       ___safe_se_handler_table   1000e710     <linker-defined>
- 0002:00001740       ___rtc_iaa                 1000e740     msvcrt:initsect.obj
- 0002:00001744       ___rtc_izz                 1000e744     msvcrt:initsect.obj
- 0002:00001748       ___rtc_taa                 1000e748     msvcrt:initsect.obj
- 0002:0000174c       ___rtc_tzz                 1000e74c     msvcrt:initsect.obj
- 0002:000019d4       __IMPORT_DESCRIPTOR_svapi  1000e9d4     svapi:svapi.dll
- 0002:000019e8       __IMPORT_DESCRIPTOR_MFC71  1000e9e8     mfc71:MFC71.DLL
- 0002:000019fc       __IMPORT_DESCRIPTOR_MSVCR71 1000e9fc     msvcrt:MSVCR71.dll
- 0002:00001a10       __IMPORT_DESCRIPTOR_KERNEL32 1000ea10     kernel32:KERNEL32.dll
- 0002:00001a24       __IMPORT_DESCRIPTOR_MSVCP71 1000ea24     msvcprt:MSVCP71.dll
- 0002:00001a38       __NULL_IMPORT_DESCRIPTOR   1000ea38     svapi:svapi.dll
+ 0002:00001658       ??_R1A@?0A@A@CNoTrackObject@@8 1000e658     mfcs71:dllmodul.obj
+ 0002:00001670       ??_R1A@?0A@A@AFX_MODULE_STATE@@8 1000e670     mfcs71:dllmodul.obj
+ 0002:00001688       ??_R1A@?0A@A@_AFX_DLL_MODULE_STATE@@8 1000e688     mfcs71:dllmodul.obj
+ 0002:000016a0       ??_R2_AFX_DLL_MODULE_STATE@@8 1000e6a0     mfcs71:dllmodul.obj
+ 0002:000016b0       ??_R3_AFX_DLL_MODULE_STATE@@8 1000e6b0     mfcs71:dllmodul.obj
+ 0002:000016c0       ??_R4_AFX_DLL_MODULE_STATE@@6B@ 1000e6c0     mfcs71:dllmodul.obj
+ 0002:000016d4       ??_R1A@?0A@A@type_info@@8  1000e6d4     msvcrt:ti_inst.obj
+ 0002:000016ec       ??_R2type_info@@8          1000e6ec     msvcrt:ti_inst.obj
+ 0002:000016f4       ??_R3type_info@@8          1000e6f4     msvcrt:ti_inst.obj
+ 0002:00001704       ??_R4type_info@@6B@        1000e704     msvcrt:ti_inst.obj
+ 0002:00001720       ___safe_se_handler_table   1000e720     <linker-defined>
+ 0002:00001750       ___rtc_iaa                 1000e750     msvcrt:initsect.obj
+ 0002:00001754       ___rtc_izz                 1000e754     msvcrt:initsect.obj
+ 0002:00001758       ___rtc_taa                 1000e758     msvcrt:initsect.obj
+ 0002:0000175c       ___rtc_tzz                 1000e75c     msvcrt:initsect.obj
+ 0002:000019e4       __IMPORT_DESCRIPTOR_svapi  1000e9e4     svapi:svapi.dll
+ 0002:000019f8       __IMPORT_DESCRIPTOR_MFC71  1000e9f8     mfc71:MFC71.DLL
+ 0002:00001a0c       __IMPORT_DESCRIPTOR_MSVCR71 1000ea0c     msvcrt:MSVCR71.dll
+ 0002:00001a20       __IMPORT_DESCRIPTOR_KERNEL32 1000ea20     kernel32:KERNEL32.dll
+ 0002:00001a34       __IMPORT_DESCRIPTOR_MSVCP71 1000ea34     msvcprt:MSVCP71.dll
+ 0002:00001a48       __NULL_IMPORT_DESCRIPTOR   1000ea48     svapi:svapi.dll
  0003:00000000       ___xc_a                    10010000     msvcrt:cinitexe.obj
  0003:0000001c       ___xc_z                    1001001c     msvcrt:cinitexe.obj
  0003:00000020       ___xi_a                    10010020     msvcrt:cinitexe.obj

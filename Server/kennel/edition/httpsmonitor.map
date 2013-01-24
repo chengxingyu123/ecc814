@@ -1,6 +1,6 @@
  httpsmonitor
 
- Timestamp is 5100afd9 (Thu Jan 24 11:51:53 2013)
+ Timestamp is 5100df52 (Thu Jan 24 15:14:26 2013)
 
  Preferred load address is 10000000
 
@@ -435,9 +435,9 @@
  0002:000004bc       ??_C@_0BO@JOODGAEE@SOFTWARE?2siteview?2siteviewecc?$AA@ 100064bc     funcGeneral.obj
  0002:000004dc       ??_C@_02DKCKIIND@?$CFs?$AA@ 100064dc     funcGeneral.obj
  0002:000004df       ??_C@_00CNPNBAHC@?$AA@     100064df     funcGeneral.obj
- 0002:000004e0       ??_7CHttpsMonitorApp@@6B@  100064e0     httpsmonitor.obj
- 0002:000005a0       ??_7CFileException@@6B@    100065a0     httpsmonitor.obj
- 0002:000005bc       ??_7W3Client@@6B@          100065bc     httpsmonitor.obj
+ 0002:000004e0       ??_7W3Client@@6B@          100064e0     httpsmonitor.obj
+ 0002:000004f4       ??_7CFileException@@6B@    100064f4     httpsmonitor.obj
+ 0002:00000510       ??_7CHttpsMonitorApp@@6B@  10006510     httpsmonitor.obj
  0002:000005d0       ??_C@_0BF@OFIODPJL@?$DM?$CFIDS_UrlMonitor_2?$CF?$DO?$AA@ 100065d0     httpsmonitor.obj
  0002:000005e8       ??_C@_01CLKCMJKC@?5?$AA@   100065e8     httpsmonitor.obj
  0002:000005ec       ??_C@_0BF@FNDCFIPO@?$DM?$CFIDS_UrlMonitor_3?$CF?$DO?$AA@ 100065ec     httpsmonitor.obj
